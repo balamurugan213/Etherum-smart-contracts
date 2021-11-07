@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Etherum-smart-contracts/static/css/main.549bde45.chunk.css",
+    "main.js": "/Etherum-smart-contracts/static/js/main.18d3f72c.chunk.js",
+    "main.js.map": "/Etherum-smart-contracts/static/js/main.18d3f72c.chunk.js.map",
+    "runtime-main.js": "/Etherum-smart-contracts/static/js/runtime-main.d870e32a.js",
+    "runtime-main.js.map": "/Etherum-smart-contracts/static/js/runtime-main.d870e32a.js.map",
+    "static/js/2.088bdde9.chunk.js": "/Etherum-smart-contracts/static/js/2.088bdde9.chunk.js",
+    "static/js/2.088bdde9.chunk.js.map": "/Etherum-smart-contracts/static/js/2.088bdde9.chunk.js.map",
+    "static/js/3.e36e8212.chunk.js": "/Etherum-smart-contracts/static/js/3.e36e8212.chunk.js",
+    "static/js/3.e36e8212.chunk.js.map": "/Etherum-smart-contracts/static/js/3.e36e8212.chunk.js.map",
+    "index.html": "/Etherum-smart-contracts/index.html",
+    "static/css/main.549bde45.chunk.css.map": "/Etherum-smart-contracts/static/css/main.549bde45.chunk.css.map",
+    "static/js/2.088bdde9.chunk.js.LICENSE.txt": "/Etherum-smart-contracts/static/js/2.088bdde9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d870e32a.js",
+    "static/js/2.088bdde9.chunk.js",
+    "static/css/main.549bde45.chunk.css",
+    "static/js/main.18d3f72c.chunk.js"
+  ]
+}
